@@ -8,4 +8,4 @@ This is a simple one-page website.
 2) sudo apt install python3-pip
 3) sudo pip install docker-compose
 4) git clone https://github.com/sentenza-dev/personal_website.git (sudo apt install git)
-5) docker-compose up -d
+5) sudo docker-compose up -d
